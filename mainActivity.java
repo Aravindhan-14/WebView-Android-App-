@@ -13,7 +13,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     WebView webView;
-
+//here paste your url
     private String webUrl="https://trainingtrains.com/";
 
     @Override
